@@ -328,4 +328,4 @@ Now that your Angular app is all set up, it's time to CRUD a resource! You'll ne
 3. Create a new show details route.
 
 ## Solution
-* <a href="https://github.com/SF-WDI-LABS/rangular-todo" target="_blank">Rangular Todo</a>
+* <a href="https://github.com/SF-WDI-33/rangular-todo" target="_blank">Rangular Todo</a>
